@@ -1,2 +1,2 @@
-# Neural-networks-solve-PDE
-Different methods of solving partial differential equations with neural networks
+# Neural-Network-for-solving-PDE
+Different methods of solving partial differential equations with neural network
