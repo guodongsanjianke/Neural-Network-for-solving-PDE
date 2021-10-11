@@ -7,3 +7,5 @@ Different methods of solving partial differential equations with neural network
   
 [3] J. Sirignano and K. Spiliopoulos, “DGM: A deep learning algorithm for solving partial differential equations,” Journal of Computational Physics. https://linkinghub.elsevier.com/retrieve/pii/S0021999118305527
 
+[4] Zongyi Li, Nikola Kovachki, Kamyar Azizzadenesheli, Burigede Liu, Kaushik Bhattacharya, Andrew Stuart and Anima Anandkumar. Neural Operator: Graph Kernel Network for Partial Differential Equations. https://arxiv.org/abs/2003.03485
+ 
